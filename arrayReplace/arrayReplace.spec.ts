@@ -1,9 +1,9 @@
 import { arrayReplace } from './arrayReplace';
 
-xdescribe(arrayReplace.name, () => {
+describe(arrayReplace.name, () => {
     it('Test 1', () => {
         // arrange
-        const data = [3, 5, 2, 4, 5];
+        const data = [1, 2, 1];
         const elementToReplace = 1;
         const substitutionElement = 3;
 

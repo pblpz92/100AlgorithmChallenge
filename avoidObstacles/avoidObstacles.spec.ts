@@ -1,6 +1,6 @@
 import { avoidObstacles } from './avoidObstacles';
 
-xdescribe(avoidObstacles.name, () => {
+describe(avoidObstacles.name, () => {
     it('Test 1', () => {
         // arrange
         const data = [5, 3, 6, 7, 9];
