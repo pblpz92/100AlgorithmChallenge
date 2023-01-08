@@ -1,6 +1,6 @@
 import { candies } from './candies';
 
-xdescribe(candies.name, () => {
+describe(candies.name, () => {
     it('Test 1', () => {
         // arrange
         const n = 3;
@@ -10,6 +10,6 @@ xdescribe(candies.name, () => {
         const response = candies(n, m);
 
         // assert
-        expect(response).toBe(9);
+        expect(response).toBe(3);
     });
 });

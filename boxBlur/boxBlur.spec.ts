@@ -1,6 +1,6 @@
 import { boxBlur } from './boxBlur';
 
-xdescribe(boxBlur.name, () => {
+describe(boxBlur.name, () => {
     it('Test 1', () => {
         // arrange
         const data = [[1, 1, 1],

@@ -1,6 +1,6 @@
 import { isCaseInsensitivePalindrome } from './caseInsensitivePalindrome';
 
-xdescribe(isCaseInsensitivePalindrome.name, () => {
+describe(isCaseInsensitivePalindrome.name, () => {
     it('Test 1', () => {
         // arrange
         const data = 'AaBaa';
