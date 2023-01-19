@@ -1,9 +1,8 @@
-export function circleOfNumbers(n: number, firstNumber: number): number {
-    let result: number = 0;
-
+export function circleOfNumbers(n: number, firstNumber: number): number {    
     
-
-    return result;
+    return firstNumber < n/2 ?  
+        firstNumber + n/2 : 
+        firstNumber - n/2;    
 }
 
-// console.log(circleOfNumbers(10, 2));
+console.log(circleOfNumbers(10, 2));

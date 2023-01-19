@@ -1,6 +1,6 @@
 import { circleOfNumbers } from './circleOfNumbers';
 
-xdescribe(circleOfNumbers.name, () => {
+describe(circleOfNumbers.name, () => {
     it('Test 1', () => {
         // arrange
         const n = 10;
