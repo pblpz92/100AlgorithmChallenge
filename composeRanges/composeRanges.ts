@@ -1,8 +1,7 @@
 import { isTemplateSpan } from "typescript";
 
 export function composeRanges(nums: number[]): string[] {
-
-    let item: string = "";    
+    
     let result: string[] = [];    
     let count = 0;
 
