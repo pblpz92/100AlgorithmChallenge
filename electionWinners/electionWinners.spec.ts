@@ -1,6 +1,6 @@
 import { electionsWinners } from './electionWinners';
 
-xdescribe(electionsWinners.name, () => {
+describe(electionsWinners.name, () => {
     it('Test 1', () => {
         // arrange
         const votes = [2, 3, 5, 2];

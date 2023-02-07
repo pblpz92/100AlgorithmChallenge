@@ -1,6 +1,6 @@
 import { evenDigitsOnly } from './evenDigitsOnly';
 
-xdescribe(evenDigitsOnly.name, () => {
+describe(evenDigitsOnly.name, () => {
     it('Test 1', () => {
         // arrange
         const n = 248622;
