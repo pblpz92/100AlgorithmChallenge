@@ -1,6 +1,6 @@
 import { domainType } from './domainType';
 
-xdescribe(domainType.name, () => {
+describe(domainType.name, () => {
     it('Test 1', () => {
         // arrange
         const domains = ["en.wiki.org", "codefights.com", "happy.net", "code.info"];

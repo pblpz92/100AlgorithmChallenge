@@ -1,6 +1,6 @@
 import { digitDegree } from './digitDegree';
 
-xdescribe(digitDegree.name, () => {
+describe(digitDegree.name, () => {
     it('Test 1', () => {
         // arrange
         const n = 5;
