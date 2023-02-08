@@ -1,6 +1,6 @@
 import { fermactor } from './fermactor';
 
-xdescribe(fermactor.name, () => {
+describe(fermactor.name, () => {
     it('Test 1', () => {
         // arrange
         const n = 15;
