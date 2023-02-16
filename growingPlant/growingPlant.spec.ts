@@ -1,6 +1,6 @@
 import { growingPlant } from './growingPlant';
 
-xdescribe(growingPlant.name, () => {
+describe(growingPlant.name, () => {
     it('Test 1', () => {
         // arrange
         const upSpeed = 100;

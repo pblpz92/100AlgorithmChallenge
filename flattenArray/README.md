@@ -1,4 +1,4 @@
-### Check Out My [YouTube Channel](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/steamroller)
+
 
 ---
 Flatten a nested array. You must account for varying levels of nesting.
