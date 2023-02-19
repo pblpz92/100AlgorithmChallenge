@@ -1,6 +1,6 @@
 import { largestNumber } from './largestNumber';
 
-xdescribe(largestNumber.name, () => {
+describe(largestNumber.name, () => {
     it('Test 1', () => {
         // arrange
         const data = 2;
