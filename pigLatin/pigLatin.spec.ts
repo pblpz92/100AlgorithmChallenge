@@ -1,6 +1,6 @@
 import { pigLatin } from './pigLatin';
 
-xdescribe(pigLatin.name, () => {
+describe(pigLatin.name, () => {
     it('Test 1', () => {
         // arrange
         const data = 'glove';
