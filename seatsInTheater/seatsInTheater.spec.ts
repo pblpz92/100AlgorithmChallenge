@@ -1,6 +1,6 @@
 import { seatsInTheater } from './seatsInTheater';
 
-xdescribe(seatsInTheater.name, () => {
+describe(seatsInTheater.name, () => {
     it('Test 1', () => {
         // arrange
         const nCols = 16;

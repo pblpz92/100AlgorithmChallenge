@@ -1,6 +1,6 @@
 import { reverseAString } from './reverseAString';
 
-xdescribe(reverseAString.name, () => {
+describe(reverseAString.name, () => {
     it('Test 1', () => {
         // arrange
         const inputString = 'hello';
