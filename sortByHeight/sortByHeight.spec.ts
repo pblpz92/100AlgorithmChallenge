@@ -1,6 +1,6 @@
 import { sortByHeight } from './sortByHeight';
 
-xdescribe(sortByHeight.name, () => {
+describe(sortByHeight.name, () => {
     it('Test 1', () => {
         // arrange
         const data = [-1, 150, 190, 170, -1, -1, 160, 180];

@@ -1,6 +1,6 @@
 import { seekAndDestroy } from './seekAndDestroy';
 
-xdescribe(seekAndDestroy.name, () => {
+describe(seekAndDestroy.name, () => {
     it('Test 1', () => {
         // arrange
         const data1 = [3, 5, 1, 2, 2];

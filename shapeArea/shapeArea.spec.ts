@@ -1,6 +1,6 @@
 import { shapeArea } from './shapeArea';
 
-xdescribe(shapeArea.name, () => {
+describe(shapeArea.name, () => {
     it('Test 1', () => {
         // arrange
         const n = 2;
