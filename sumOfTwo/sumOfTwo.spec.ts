@@ -1,6 +1,6 @@
 import { sumOfTwo } from './sumOfTwo';
 
-xdescribe(sumOfTwo.name, () => {
+describe(sumOfTwo.name, () => {
     it('Test 1', () => {
         // arrange
         const a = [1, 2, 3];

@@ -1,6 +1,6 @@
 import { sumOddFibonacciNums } from './sumOddFibonacciNums';
 
-xdescribe(sumOddFibonacciNums.name, () => {
+describe(sumOddFibonacciNums.name, () => {
     it('Test 1', () => {
         // arrange
         const data = 10;

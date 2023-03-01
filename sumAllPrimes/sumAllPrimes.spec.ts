@@ -1,6 +1,6 @@
 import { sumAllPrimes } from './sumAllPrimes';
 
-xdescribe(sumAllPrimes.name, () => {
+describe(sumAllPrimes.name, () => {
     it('Test 1', () => {
         // arrange
         const data = 10;
