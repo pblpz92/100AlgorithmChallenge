@@ -1,6 +1,6 @@
 import { stringsConstruction } from './stringsConstruction';
 
-xdescribe(stringsConstruction.name, () => {
+describe(stringsConstruction.name, () => {
     it('Test 1', () => {
         // arrange
         const a = "abc";

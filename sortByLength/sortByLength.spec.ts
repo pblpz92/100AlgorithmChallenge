@@ -1,6 +1,6 @@
 import { sortByLength } from './sortByLength';
 
-xdescribe(sortByLength.name, () => {
+describe(sortByLength.name, () => {
     it('Test 1', () => {
         // arrange
         const data = ["abc",
