@@ -1,6 +1,6 @@
 import { squareDigitsSequence } from './squareDigitsSequence';
 
-xdescribe(squareDigitsSequence.name, () => {
+describe(squareDigitsSequence.name, () => {
     it('Test 1', () => {
         // arrange
         const data = 16;

@@ -1,4 +1,4 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
+
 
 ##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/code-arcade/labyrinth-of-nested-loops/MvX84CA5HN6GKqv7R/description)
 ---
@@ -18,7 +18,7 @@ Here's how elements of the sequence are constructed:
 -   a2 = 3^2 + 7^2 = 58
 -   a3 = 5^2 + 8^2 = 89
 -   a4 = 8^2 + 9^2 = 145
--   a5 = 1^2 + 4^2 + 52 = 42
+-   a5 = 1^2 + 4^2 + 5^2 = 42
 -   a6 = 4^2 + 2^2 = 20
 -   a7 = 2^2 + 0^2 = 4
 -   a8 = 4^2 = 1^6, which has already occurred before (a0)

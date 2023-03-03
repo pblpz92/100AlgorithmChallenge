@@ -1,6 +1,6 @@
 import { tasksTypes } from './tasksType';
 
-xdescribe(tasksTypes.name, () => {
+describe(tasksTypes.name, () => {
     it('Test 1', () => {
         // arrange
         const deadlines = [1, 2, 3, 4, 5];

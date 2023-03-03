@@ -1,4 +1,4 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
+
 
 ##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/code-arcade/labyrinth-of-nested-loops/pdw3izd7SpMTBJqSy/description)
 ---
@@ -12,8 +12,6 @@ It's guaranteed that you can number the current page, and that you can't number 
 pagesNumberingWithInk(current, numberOfDigits) = 5.
 
 The following numbers will be printed: 1, 2, 3, 4, 5.
-
-There are three independent sequences for systems "stage_1", "stage_2", and "dragon". These sequences are [1, 2], [10, 12], and [11, 111], respectively. The elements are in strictly increasing order for all three.
 
 -   For current = 21 and numberOfDigits = 5, the output should be
 pagesNumberingWithInk(current, numberOfDigits) = 22.

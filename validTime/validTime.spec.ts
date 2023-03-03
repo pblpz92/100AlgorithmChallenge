@@ -1,6 +1,6 @@
 import { validTime } from './validTime';
 
-xdescribe(validTime.name, () => {
+describe(validTime.name, () => {
     it('Test 1', () => {
         // arrange
         const time = '13:58';

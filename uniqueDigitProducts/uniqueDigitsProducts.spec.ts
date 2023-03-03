@@ -1,6 +1,6 @@
 import { uniqueDigitProducts } from './uniqueDigitsProducts';
 
-xdescribe(uniqueDigitProducts.name, () => {
+describe(uniqueDigitProducts.name, () => {
     it('Test 1', () => {
         // arrange
         const data = [2, 8, 121, 42, 222, 23];

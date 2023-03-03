@@ -1,6 +1,6 @@
 import { switchLights } from './switchLights';
 
-xdescribe(switchLights.name, () => {
+describe(switchLights.name, () => {
     it('Test 1', () => {
         // arrange
         const data = [1, 1, 1, 1, 1];

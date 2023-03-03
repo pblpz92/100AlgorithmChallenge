@@ -1,4 +1,4 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
+
 
 ##### Algorithm Challenge Available At [CodeFights](https://codefights.com/company-challenges/asana/2vJMZnQzdkkhCvmxs)
 ---
